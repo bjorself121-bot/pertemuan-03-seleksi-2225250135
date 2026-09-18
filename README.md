@@ -39,3 +39,11 @@ python tugas/analisis_persamaan_kuadrat.py
 ## Refleksi
 
 Kesalahan logika yang perlu diperhatikan adalah penggunaan kondisi pada diskriminan. Program harus membedakan kondisi D > 0, D = 0, dan D < 0 dengan tepat. Kesalahan tersebut diperbaiki dengan menggunakan nested if sehingga setiap kemungkinan diskriminan memiliki cabang yang sesuai.
+
+## Pengujian Latihan
+
+Program latihan telah dibuat dan diuji menggunakan contoh kasus yang diberikan pada modul.
+
+### Kesimpulan
+
+Penggunaan if, if-else, kondisi majemuk, dan nested if dapat membantu program mengambil keputusan berdasarkan kondisi yang diberikan.
